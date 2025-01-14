@@ -1,0 +1,5 @@
+To run the website
+1. open terminal.
+2. run command npm i.
+3. run command npm run dev.
+4. Click on the link generated.
